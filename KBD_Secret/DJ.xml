@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="DJ" ip="25.88.199.149" name="DJkrykry1" type="empty">
+
+  <portsForCrack val="1" />
+  <ports>21</ports>
+  <adminPass pass="minecraft1" />
+<firewall level="5" solution="DEBIL" />
+ <proxy time="1" />
+
+
+  <file path="home" name="saves.rar">#BINARY#</file>
+<file path="downloads" name="all.zip">#BINARY#</file>
+<file path="bin" name="Steam.exe">#BINARY#</file>
+<file path="bin" name="csgo.exe">#BINARY#</file>
+<file path="bin" name="CoDBlackOpsII.exe">#BINARY#</file>
+<file path="bin" name="Skype.exe">#BINARY#</file>
+<file path="bin" name="Discord.exe">#BINARY#</file>
+<file path="bin" name="gtav.exe">#BINARY#</file>
+<encryptedFile path="home" name="XXX.dec" ip="localhost" extension=".txt" header="Secret" pass="minecraft1">
+I am idiot!       
+</encryptedFile>
+</Computer>
